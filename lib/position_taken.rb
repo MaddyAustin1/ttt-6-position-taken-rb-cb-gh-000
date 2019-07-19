@@ -7,5 +7,4 @@ def position_taken?(board, index)
   else
     return nil
   end
-
 end
